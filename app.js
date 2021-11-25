@@ -49,7 +49,7 @@ app.use(session({
 }));
 
 /*
- * Routes config
+ * Routes config 2
  */
 app.use('', products);
 app.use('', login);
